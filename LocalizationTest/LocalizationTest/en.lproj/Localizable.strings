@@ -1,0 +1,38 @@
+//ChatViewController.xib
+"ch Label" = "ch Label eng";
+//ChatViewController.xib
+"ch Label 3" = "ch Label 3";
+//ChatViewController.swift,ChatViewController.xib
+"ch fext field" = "ch fext field";
+//ChatViewController.xib
+"ch tf ph" = "ch tf ph";
+//ChatViewController.swift
+"code new value" = "code new value";
+//Main.storyboard
+"fiextview line" = "fiextview line";
+//Main.storyboard
+"label line 1\nlabel \"lin'e 2\nlab\\\\el ст//рока 3" = "label line 1\nlabel \"lin'e 2\nlab\\\\el ст//рока 3";
+//Main.storyboard
+"one more new label" = "one more new label";
+//ChatViewController.swift,SceneDelegate.swift
+"test 1" = "test 1";
+//ChatViewController.swift,SceneDelegate.swift
+"test 1b" = "test 1b";
+//SceneDelegate.swift
+"test 3" = "test 3";
+//SceneDelegate.swift
+"test 4" = "test 4";
+//ChatViewController.swift,SceneDelegate.swift
+"test \"\" 1a" = "test \"\" 1a";
+//SceneDelegate.swift
+"test g" = "test g";
+//AdditionalKeys.swift
+"test localized value" = "test localized value";
+//SceneDelegate.swift
+"test m\"\"l2" = "test m\"\"l2";
+//Main.storyboard
+"text field first line ололо пыщ пыщ" = "pish";
+//Main.storyboard
+"text field plaseholder" = "text field plaseholder";
+//Main.storyboard,SceneDelegate.swift
+"text field text" = "field text";
